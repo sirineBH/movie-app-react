@@ -1,4 +1,4 @@
-# Example React App
+# Movie React App
 
 ## Description
 A REACT.js application using The Movie Database (TMDB) API
